@@ -67,7 +67,7 @@ class _TheMovieScreenState extends State<TheMovieScreen> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             const Padding(
-                padding: EdgeInsets.symmetric(horizontal: 10),
+                padding: EdgeInsets.symmetric(horizontal: 16),
                 child: Text(
                   StringConst.popularList,
                   style: AppTextTheme.style20pxGrey,
